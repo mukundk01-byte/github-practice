@@ -1,0 +1,3 @@
+Name: Mukund
+Field: Bioinformatics
+Goal: Learn programming and computational biology
